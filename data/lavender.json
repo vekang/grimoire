@@ -1,12 +1,12 @@
 {
-  "id": "rosemary",
+  "id": "lavender",
   "name": {
-    "fi": "Rosmariini",
-    "en": "Rosemary"
+    "fi": "Laventeli",
+    "en": "Lavender"
   },
   "category": "kasvi",
-  "elements": ["Tuli"],
-  "planets": ["Aurinko"],
+  "elements": [""],
+  "planets": [""],
   "meanings": [""],
 
   "longer": [""],
@@ -16,4 +16,3 @@
     "en": [""]
   }
 }
-
