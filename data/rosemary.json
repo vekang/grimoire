@@ -1,0 +1,16 @@
+{
+  "id": "rosemary",
+  "name": {
+    "fi": "Rosmariini",
+    "en": "Rosemary"
+  },
+  "category": "yrtti",
+  "meanings": ["suojaus", "selkeys", "muisti"],
+  "elements": ["tuli"],
+  "keywords": {
+    "fi": ["puhdistus", "keskittyminen"],
+    "en": ["cleansing", "focus"]
+  },
+  "//comment": "pitäiskö muukin olla eng/fin?"
+}
+
